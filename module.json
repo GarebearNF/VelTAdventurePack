@@ -1,0 +1,109 @@
+{
+    "name": "Velt Adventure Pack",
+    "title": "Velt Adventure Pack",
+    "description": "This module contains all of the base data needed to start a homebrew adventure in the 5e Velt setting.",
+    "version": "0.1.00",
+    "library": "false",
+    "manifestPlusVersion": "1.0.0",
+    "minimumCoreVersion": "0.7.9",
+    "compatibleCoreVersion": "0.8.9",
+    "authors": [
+        {
+            "name": "Syphre",
+            "url": "",
+            "discord": ""
+        }
+    ],
+    "packs": [
+        {
+            "name": "spell-gems-lvl-0",
+            "label": "Spell Gems (Lvl 0)",
+            "path": "packs/spell-gems-lvl-0.db",
+            "entity": "Item",
+            "module": "VAPack"
+        },
+{
+            "name": "spell-gems-lvl-1",
+            "label": "Spell Gems (Lvl 1)",
+            "path": "packs/spell-gems-lvl-1.db",
+            "entity": "Item",
+            "module": "VAPack"
+        },
+{
+            "name": "spell-gems-lvl-2",
+            "label": "Spell Gems (Lvl 2)",
+            "path": "packs/spell-gems-lvl-2.db",
+            "entity": "Item",
+            "module": "VAPack"
+        },
+{
+            "name": "spell-gems-lvl-3",
+            "label": "Spell Gems (Lvl 3)",
+            "path": "packs/spell-gems-lvl-3.db",
+            "entity": "Item",
+            "module": "VAPack"
+        },
+{
+            "name": "spell-gems-lvl-4",
+            "label": "Spell Gems (Lvl 4)",
+            "path": "packs/spell-gems-lvl-4.db",
+            "entity": "Item",
+            "module": "VAPack"
+        },
+{
+            "name": "spell-gems-lvl-5",
+            "label": "Spell Gems (Lvl 5)",
+            "path": "packs/spell-gems-lvl-5.db",
+            "entity": "Item",
+            "module": "VAPack"
+        },
+{
+            "name": "spell-gems-lvl-6",
+            "label": "Spell Gems (Lvl 6)",
+            "path": "packs/spell-gems-lvl-6.db",
+            "entity": "Item",
+            "module": "VAPack"
+        },
+{
+            "name": "spell-gems-lvl-7",
+            "label": "Spell Gems (Lvl 7)",
+            "path": "packs/spell-gems-lvl-7.db",
+            "entity": "Item",
+            "module": "VAPack"
+        },
+{
+            "name": "spell-gems-lvl-8",
+            "label": "Spell Gems (Lvl 8)",
+            "path": "packs/spell-gems-lvl-8.db",
+            "entity": "Item",
+            "module": "VAPack"
+        },
+{
+            "name": "spell-gems-lvl-9",
+            "label": "Spell Gems (Lvl 9)",
+            "path": "packs/spell-gems-lvl-9.db",
+            "entity": "Item",
+            "module": "VAPack"
+        },
+
+{
+            "name": "velt-tables",
+            "label": "Velt Tables",
+            "path": "packs/velt-tables.db",
+            "entity": "RollTable",
+            "module": "VAPack"
+        },
+{
+            "name": "velt-scenes",
+            "label": "Velt Scenes",
+            "path": "packs/velt-scenes.db",
+            "entity": "Scene",
+            "module": "VAPack"
+        }
+    ],
+    "esmodules": [
+    ],
+    "url": "https://github.com/GarebearNF/VelTAdventurePack",
+    "manifest": "https://github.com/GarebearNF/FullCompendium/raw/main/module.json",
+    "download": "https://www.dropbox.com/s/exf5urb0xyfv5y6/Velt%20Adventure%20Pack.zip?dl=1"
+}

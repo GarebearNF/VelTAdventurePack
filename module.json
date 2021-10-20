@@ -2,9 +2,9 @@
     "name": "velt-adventure-Pack",
     "title": "Velt Adventure Pack",
     "description": "This module contains all of the base data needed to start a homebrew adventure in the 5e Velt setting.",
-    "version": "0.1.10",
+    "version": "0.1.20",
     "library": "false",
-    "manifestPlusVersion": "1.1.0",
+    "manifestPlusVersion": "1.1.1",
     "minimumCoreVersion": "0.7.9",
     "compatibleCoreVersion": "0.8.9",
     "authors": [

@@ -102,7 +102,7 @@
         },
 {
             "name": "velt-notes",
-            "label": "Velt Scenes",
+            "label": "Velt Notes",
             "path": "packs/velt-notes.db",
             "entity": "JournalEntry",
             "module": "VAPack"

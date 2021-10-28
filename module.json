@@ -2,9 +2,9 @@
     "name": "velt-adventure-Pack",
     "title": "Velt Adventure Pack",
     "description": "This module contains all of the base data needed to start a homebrew adventure in the 5e Velt setting.",
-    "version": "0.1.50",
+    "version": "0.1.60",
     "library": "false",
-    "manifestPlusVersion": "1.1.5",
+    "manifestPlusVersion": "1.1.6",
     "minimumCoreVersion": "0.7.9",
     "compatibleCoreVersion": "0.8.9",
     "authors": [
@@ -120,6 +120,11 @@
             "name": "better-rolltables",
             "type": "module",
             "manifest": "https://raw.githubusercontent.com/ultrakorne/better-rolltables/master/module.json"
+        },
+{
+            "name": "Full Compendium",
+            "type": "module",
+            "manifest": "https://github.com/GarebearNF/FullCompendium/raw/main/module.json"
         }
     ],
     "url": "https://github.com/GarebearNF/VelTAdventurePack",
